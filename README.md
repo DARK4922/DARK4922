@@ -2,6 +2,10 @@
 
 # 🩵 Hi, I'm EXIT_SUCCESS! 🩷
 
+<p align="center">
+  <img src="./banner.png" width="800">
+</p>
+
 ### `C++ Developer` · `Backend` · `Telegram Bots`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,20&height=120&section=header&text=Welcome!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
@@ -67,9 +71,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=ffffff&title_color=5B9BD5&icon_color=F28B9C&text_color=4A5568&ring_color=78C7E8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DARK4922&show_icons=true&hide_border=true&bg_color=ffffff&title_color=5B9BD5&icon_color=F28B9C&text_color=4A5568&ring_color=78C7E8"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=ffffff&title_color=5B9BD5&text_color=4A5568"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARK4922&layout=compact&hide_border=true&bg_color=ffffff&title_color=5B9BD5&text_color=4A5568"/>
 
 </div>
 
@@ -77,7 +81,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=FFFFFF&ring=78C7E8&fire=F28B9C&currStreakLabel=5B9BD5&sideLabels=5B9BD5&currStreakNum=4A5568&sideNums=4A5568&dates=8A94A6"/>
+<img src="https://streak-stats.demolab.com?user=DARK4922&hide_border=true&background=FFFFFF&ring=78C7E8&fire=F28B9C&currStreakLabel=5B9BD5&sideLabels=5B9BD5&currStreakNum=4A5568&sideNums=4A5568&dates=8A94A6"/>
 
 </div>
 
@@ -87,7 +91,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=ffffff&color=5B9BD5&line=78C7E8&point=F28B9C&area=true&hide_border=true&custom_title=Vanya's%20Contribution%20Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DARK4922&bg_color=ffffff&color=5B9BD5&line=78C7E8&point=F28B9C&area=true&hide_border=true&custom_title=Vanya's%20Contribution%20Graph"/>
 
 </div>
 
@@ -115,7 +119,7 @@ applications and a rating system.
 
 <div align="center">
 
-[![View Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-78C7E8?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY)
+[![View Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-78C7E8?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/DARK4922/YOUR_REPOSITORY)
 
 </div>
 
